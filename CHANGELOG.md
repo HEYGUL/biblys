@@ -1,5 +1,15 @@
 # Historique des modifications
 
+## 2.86.0 (DEV)
+
+### Déploiement
+
+Jouer les migrations
+
+```shell
+composer db:migrate
+```
+
 ## 2.85.0 (4 septembre 2024)
 
 Améliorations
