@@ -2,6 +2,10 @@
 
 ## 2.86.0 (DEV)
 
+### Améliorations
+
+- La présentation de la page "Gestion des médias" a été améliorée.
+
 ### Déploiement
 
 Jouer les migrations
